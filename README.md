@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou João Pedro Souza Granciere 👋
 
 🎯 Iniciante na Programação | 💻 Estudante de Desenvolvimento Web
 
