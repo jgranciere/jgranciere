@@ -35,5 +35,5 @@ Estou sempre em busca de novos aprendizados e oportunidades para evoluir na áre
 ---
 
 ### 📫 Como me encontrar:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-souza-granciere-3b28351b6/)
+- 🔗 [LinkedIn](www.linkedin.com/in/joaogranciere)
 - 💻 [GitHub](https://github.com/jgranciere)
