@@ -1,10 +1,12 @@
 # Olá, eu sou João Pedro Souza Granciere 👋
 
-🎯 Desenvolvedor Front-End em formação | 💻 Estudante de Desenvolvimento Web e Mobile
+### 🚀 Desenvolvedor Full-Stack em Formação | Estudante de Análise e Desenvolvimento de Sistemas
+
+Atualmente estou focado em desenvolvimento de software e criação de soluções web e mobile. Possuo experiência prática em projetos full-stack utilizando React e JavaScript no frontend, e .NET e C# no backend.
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo:
+## 🛠️ Habilidades Técnicas:
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -17,20 +19,17 @@
 
 ---
 
-## 📱 Projetos recentes:
-- ✅ App de controle de contas (React Native + Expo)
-- 💡 Projetos Web com HTML, CSS e JavaScript
-- 🔧 Experimentos com C# e .NET para APIs REST
+##💡 Projetos de Desenvolvimento:
 
----
+### 1. Sistema Completo de Pedidos e Gestão de Delivery (Full-Stack)
 
-## 📖 Sobre mim:
+* Desenvolvi e implementei um sistema abrangente de pedidos e delivery, utilizando .NET (C#, PostgreSQL, Entity Framework Core) para o backend (API RESTful com CRUD de produtos, gestão de estoque, processamento de pedidos e métricas de vendas) e React para o frontend (interface responsiva com pesquisa avançada, ordenação, paginação e painel administrativo completo).
+* Superei desafios de migrações de banco de dados, serialização JSON e otimização de consultas (LINQ).
+* Utilizei Git, GitHub e Swagger neste projeto.
 
-Atualmente estou estudando desenvolvimento Front-End com foco em **aplicações web e mobile**. Já desenvolvi um app completo de **controle de contas** usando **React Native e Expo**, e tenho experiência com projetos web usando **HTML, CSS e JavaScript**.
+### 2. Aplicação Mobile de Gestão Financeira Pessoal
 
-Também tive contato com **.NET e C#**, criando APIs simples com testes via Swagger e integração com banco de dados.
-
-Estou sempre em busca de novos aprendizados e oportunidades para evoluir na área de desenvolvimento.
+* Desenvolvi e implementei um aplicativo mobile para controle financeiro pessoal com React Native e JavaScript, incluindo gestão de contas e cálculo de despesas, focado em uma interface responsiva e intuitiva.
 
 ---
 
